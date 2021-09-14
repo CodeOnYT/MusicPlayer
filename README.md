@@ -5,6 +5,8 @@ Live Preview at the Below Website. : https://www.bluetext.in/p/ibemusicstudio.ht
 
 You can Add it to the Website Like This 
 
+
+
 ![Screenshot For Embedeing in Website](https://raw.githubusercontent.com/CodeOnYT/MusicPlayer/main/Add.png)
 
 This is an Single Page version for the Music Player created from the Git Repo : https://github.com/CodeOnYT/mini-player
@@ -19,3 +21,12 @@ If You Liked this repo then you can clone and even contribute to the Project to 
 How the Music Player Looks.
 
 ![Screenshot](https://raw.githubusercontent.com/CodeOnYT/MusicPlayer/main/Screenshot%202021-09-14%20155051.png)
+
+
+
+
+
+[text-to-highlight](actual-link){:target="\_blank"}
+
+For others
+<a href="https://github.com/CodeOnYT/mini-player" target="_blank">Music Player Project Git Repo!</a>
