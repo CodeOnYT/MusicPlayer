@@ -24,9 +24,3 @@ How the Music Player Looks.
 
 
 
-
-
-[text-to-highlight](actual-link){:target="\_blank"}
-
-For others
-<a href="https://github.com/CodeOnYT/mini-player" target="_blank">Music Player Project Git Repo!</a>
